@@ -1,4 +1,4 @@
-## Aplicacion en node js para ver la temperatura en una region del mundo
+## Aplicacion de consola en node js para ver la temperatura en una region del mundo
 
 Instalacion con ```npm install```
 
@@ -7,3 +7,9 @@ Instalacion con ```npm install```
 ```
 node app.js -d "La Paz Bolivia"
 ```
+
+### Temas
+
+* Conexion API REST con axio
+* Promesas secuenciales 
+* Parametro de consola
