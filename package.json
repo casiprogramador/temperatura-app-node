@@ -1,0 +1,15 @@
+{
+  "name": "app-clima-consola-nodejs",
+  "version": "1.0.0",
+  "description": "Aplicacion de consola para ver el clima en una region ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Choque",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yarg": "^1.0.8"
+  }
+}
